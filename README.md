@@ -17,7 +17,7 @@ To use this API in your mod, add the following to your `mod.json`:
 
 You can then include the API in your code like so:
 ```cpp
-#include <hiimjustin000.more_icons_api/MoreIconsAPI.hpp>
+#include <hiimjustin000.more_icons_api/include/MoreIconsAPI.hpp>
 ```
 
 Further documentation can be found [here](./include/MoreIconsAPI.hpp).

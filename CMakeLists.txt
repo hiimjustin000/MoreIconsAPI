@@ -5,7 +5,7 @@ set(CMAKE_OSX_ARCHITECTURES "x86_64;arm64")
 set(CMAKE_CXX_VISIBILITY_PRESET hidden)
 set(MORE_ICONS_API_TESTING ON)
 
-project(MoreIconsAPI VERSION 1.0.0)
+project(MoreIconsAPI VERSION 1.0.1)
 
 add_library(${PROJECT_NAME} SHARED
     src/MoreIconsAPI.cpp
