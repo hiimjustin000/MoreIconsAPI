@@ -1,0 +1,35 @@
+{
+    "geode": "3.8.1",
+    "gd": {
+        "android": "2.206",
+        "win": "2.206",
+        "mac": "2.206"
+    },
+    "version": "v1.0.0",
+    "id": "hiimjustin000.more_icons_api",
+    "name": "More Icons API",
+    "developer": "hiimjustin000",
+    "description": "A mod that provides an API for the More Icons mod.",
+    "api": {
+        "include": [
+            "include/*.hpp"
+        ]
+    },
+    "dependencies": [
+        {
+            "id": "hiimjustin000.more_icons",
+            "version": ">=v1.0.0",
+            "importance": "recommended"
+        }
+    ],
+    "links": {
+        "community": "https://discord.gg/QVKmbvBXA7",
+        "source": "https://github.com/hiimjustin000/MoreIconsAPI",
+        "homepage": "https://www.hiimjustin000.com"
+    },
+    "tags": [
+        "developer",
+        "offline",
+        "utility"
+    ]
+}
